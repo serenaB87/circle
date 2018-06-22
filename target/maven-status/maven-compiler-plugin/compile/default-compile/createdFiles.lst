@@ -1,0 +1,7 @@
+com\consulthink\circle\service\CircleService.class
+com\consulthink\circle\App.class
+com\consulthink\circle\model\CircleObj.class
+com\consulthink\circle\CircleSettings.class
+com\consulthink\circle\controller\Controller.class
+com\consulthink\circle\model\MessageObj.class
+com\consulthink\circle\client\CircleClient.class
